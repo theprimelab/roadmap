@@ -15,7 +15,8 @@ Low priority - These items are being considered, but could either be removed or 
 - ***Cleanbox/VR Setup*** - We are currently trying to buy a Cleanbox, but it needs to be approved by the department head first.
 - ***Prusa MMU2S*** - This is already assembled and installed on the Prusa, but it currently isn't working.
 - ***Soldering stations*** - We have one in the office, with a bunch of other equipment, it will be moved down to the lab later in the semester.
-- *Workstation VMs* - We will most likely build some more powerful computers for the lab, but 
+- *Workstation VMs* - We will most likely build some more powerful computers for the lab, but we haven't figured out how to handle giving out sudo.
+- Machine Learning - Some students have expressed interest in high end machine learning equipment.
 - Reflow oven - This would be considered if a student had a project that required one.
 - SLA 3D Printer - This might not be entirely realistic for the time being.
 
